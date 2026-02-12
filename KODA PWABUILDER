@@ -1,0 +1,97 @@
+{
+  "name": "ALGORITMI - SEJALEC 1",
+  "short_name": "ALGORITMI - SEJALEC 1",
+  "description": "2. Izdaja, januar 2026",
+  "scope": "/app/260283523904354",
+  "start_url": "/app/260283523904354?utm_source=jotform_pwa",
+  "display": "standalone",
+  "theme_color": "#6A1C00",
+  "background_color": "#FFDF79",
+  "icons": [
+    {
+      "src": "https://www.jotform.com/uploads/pklunster/form_files/260283523904354_mainPWAIcon.697bb4390193a.png?width=16&amp;height=16&amp;time=1770382639",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.jotform.com/uploads/pklunster/form_files/260283523904354_mainPWAIcon.697bb4390193a.png?width=32&amp;height=32&amp;time=1770382639",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.jotform.com/uploads/pklunster/form_files/260283523904354_mainPWAIcon.697bb4390193a.png?width=48&amp;height=48&amp;time=1770382639",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.jotform.com/uploads/pklunster/form_files/260283523904354_mainPWAIcon.697bb4390193a.png?width=128&amp;height=128&amp;time=1770382639",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.jotform.com/uploads/pklunster/form_files/260283523904354_mainPWAIcon.697bb4390193a.png?width=144&amp;height=144&amp;time=1770382639",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.jotform.com/uploads/pklunster/form_files/260283523904354_mainPWAIcon.697bb4390193a.png?width=192&amp;height=192&amp;time=1770382639",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.jotform.com/uploads/pklunster/form_files/260283523904354_mainPWAIcon.697bb4390193a.png?width=512&amp;height=512&amp;time=1770382639",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "SEJALEC - ALGORITMI",
+      "url": "/app/260283523904354/page/20?utm_source=jotform_pwa",
+      "icons": [
+        {
+          "src": "https://cdn.jotfor.ms/assets/img/portal/logo2021/jotform_logo_icon_96x96.png",
+          "sizes": "96x96",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "Bolezen koronarnih arterij 15. izdaja",
+      "url": "/app/260283523904354/page/1556?utm_source=jotform_pwa",
+      "icons": [
+        {
+          "src": "https://cdn.jotfor.ms/assets/img/portal/logo2021/jotform_logo_icon_96x96.png",
+          "sizes": "96x96",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "Zgibanka MONS 26",
+      "url": "/app/260283523904354/page/1569?utm_source=jotform_pwa",
+      "icons": [
+        {
+          "src": "https://cdn.jotfor.ms/assets/img/portal/logo2021/jotform_logo_icon_96x96.png",
+          "sizes": "96x96",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    },
+    {
+      "name": "Kontakt:",
+      "url": "/app/260283523904354/page/122?utm_source=jotform_pwa",
+      "icons": [
+        {
+          "src": "https://cdn.jotfor.ms/assets/img/portal/logo2021/jotform_logo_icon_96x96.png",
+          "sizes": "96x96",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    }
+  ]
+}
